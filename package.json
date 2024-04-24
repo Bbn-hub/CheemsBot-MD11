@@ -1,7 +1,7 @@
 {
-    "name": "Cheems-Bot-MD",
+    "name": "Demzzybugbot_md",
     "version": "11.0.0",
-    "description": "Whatsapp Bot By DGXeon",
+    "description": "Whatsapp Bot By Demzzy",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
@@ -13,7 +13,7 @@
         "code": "node main.js",
         "start": "node index.js"
     },
-    "author": "DGXeon",
+    "author": "Demzzy",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.6.0",
